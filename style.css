@@ -1,1 +1,14 @@
+body {
+  background-color: yellow; /* makes background yellow */
+  display: flex;            /* enables flexbox */
+  justify-content: center;  /* centers horizontally */
+  align-items: center;      /* centers vertically */
+  height: 100vh;            /* makes the body full screen height */
+  margin: 0;                /* removes default spacing */
+}
+
+h1 {
+  font-family: Arial, sans-serif;
+  color: black;
+}
 
