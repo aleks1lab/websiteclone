@@ -1,0 +1,21 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Contact Us</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <nav>
+        <a href="index.html">Home</a>
+        <a href="contact.html">Contact Us</a>
+        <a href="info.html">Information Systems Undergraduate Program</a>
+    </nav>
+
+    <div class="contact-content">
+        <h1>Contact Us</h1>
+        <p>Email: email@example.com</p>
+        <p>Instagram: <a href="https://www.instagram.com/umbc.edu" target="_blank">UMBC.EDU</a></p>
+        <p>Phone: 410-UMBC-99</p>
+    </div>
+</body>
+</html>
